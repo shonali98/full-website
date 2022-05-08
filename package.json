@@ -1,0 +1,23 @@
+{
+  "name": "full-website",
+  "version": "1.0.0",
+  "description": "Asho\r 1. Create folder structure\r 1. create root folder as asho \r 2. add frontend and backend folder\r 3. create src folder in frontend\r 4. create index.html with heading asho in src\r 5. run npm init in frontend folder\r 6. npm install live-server\r 7. add start command as live-server src --verbose\r 8. run npm start",
+  "main": "index.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shonali98/full-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shonali98/full-website/issues"
+  },
+  "homepage": "https://github.com/shonali98/full-website#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
