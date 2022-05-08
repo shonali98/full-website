@@ -8,7 +8,7 @@ export default{
             price:70,
             brand: 'Nike',
             rating:4.5,
-            numRevies:10,
+            numRevies:11,
             countInStock:6,
 
         },
